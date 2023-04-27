@@ -20,7 +20,7 @@ Open to learn from everyone, because everyone has a lesson to teach.
 ## 🏆 Achievements // Things I'm proud of
 - 🥇 (2015) 1st place in the advanced project for Algorithms and Data Structures course at my University. Best win-rate and RAM usage at [m,n,k game]( https://github.com/CastFX/MNK_Game)
 - 🎓 (2018) Graduated with 110/110 cum laude at Ingegneria e Scienze Informatiche, Alma Mater Studiorum, Cesena.
-- 🏔️ (2019) FirstAscent.io - Italy. Chosen as one of the top 20 Computer Science students in Italy, among 700+ participants
+- 🏔️ (2019) [FirstAscent.io](https://firstascent.io/) - Italy. Chosen as one of the top 20 Computer Science students in Italy, among 700+ participants
 - 👾 (2021) Found an exploitable XSS vulnerability in the most famous Italian Fantasy League website (and app).
 
 
