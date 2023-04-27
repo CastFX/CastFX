@@ -2,6 +2,7 @@
 Hi there! I'm Christian, one of the few software engineers from San Marino 🇸🇲!
 
 I like to to stay up-to-date on the latest technological developments in the software world, thanks to forums, papers and blogs.
+
 [Reading // List](https://www.notion.so/christian-serra/Technical-Reading-List-df78dcff5d0f4c4a9ec1b1c32658767a?pvs=4)
 
 Open to learn from everyone, because everyone has a lesson to teach.
