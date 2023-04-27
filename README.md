@@ -6,8 +6,6 @@ I like to to stay up-to-date on the latest technological developments in the sof
 
 Open to learn from everyone, because everyone has a lesson to teach.
 
-[Full Resume // CV](Resume.pdf)
-
 ## 📝 Projects // Interests
 - 🐬 Flipper Zero, pentesting -> https://flipperzero.one/
 - 📟 Hardware, tinkering with ESP32s, RPIs 
@@ -31,3 +29,4 @@ Open to learn from everyone, because everyone has a lesson to teach.
 - 🎸 Rock/Metal music and concerts
 - 🕹️ Competitive Gaming, mostly tactical FPS -> not so much lately ;-;
 
+If you need my resume/CV, email me
