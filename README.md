@@ -27,6 +27,6 @@ Open to learn from everyone, because everyone has a lesson to teach.
 ## 💈 Other // Misc
 - 🏋 Gym and weightlifting, max lifts: -> Bench: 100kg/225lbs, Deadlift: 200kg/440lbs, Squat: 150kg/330lbs
 - 🎸 Rock/Metal music and concerts
-- 🕹️ Competitive Gaming, mostly tactical FPS -> not so much lately ;-;
+- 🕹️ Competitive Gaming, mostly tactical FPS -> not so much lately
 
 If you need my resume/CV, email me
